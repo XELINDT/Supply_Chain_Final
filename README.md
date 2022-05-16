@@ -1,2 +1,2 @@
 # Supply_Chain_Final
-We  created a python script to clean analyze, and forecast a product demand dataset containing 2160 unique products
+For our final we analyzed a publicly available dataset showing grouped transaction records of 2160 products across a million rows. The data was grouped and cleaned by month. We then created a python script to apply multiple forecasting methods, including exponential smoothing and regression to track accuracy. Data was then merged back into the original dataset for use in a tableau dashboard.
